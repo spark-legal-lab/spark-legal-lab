@@ -10,7 +10,7 @@
 
 欢迎愿意分享、动手实践的同学参与，不要求会编程。
 
-**[点击申请加入](https://github.com/csslaw/spark-legal-lab/issues/new?template=join.yml)**
+**[点击申请加入](https://github.com/spark-legal-lab/spark-legal-lab/issues/new?template=join.yml)**
 
 登录 GitHub 后，填写参与方向并提交。申请会作为公开 Issue 出现在仓库中，维护者收到通知后审核，并按需要向你的 GitHub 账号发出协作邀请。接受邀请后，即可作为协作者上传内容。
 
