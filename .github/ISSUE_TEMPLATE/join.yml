@@ -1,0 +1,26 @@
+name: 申请共建
+description: 希望长期参与维护？介绍你的参与方向与协作意愿
+title: "[加入] "
+body:
+  - type: markdown
+    attributes:
+      value: "欢迎加入！提交本申请不会自动获得写入权限，维护者审核后按需要发出邀请。此处为公开讨论，请勿填写手机号、身份证号等个人敏感信息。普通贡献无需申请，可直接提交 Issue 或 Pull Request。"
+  - type: textarea
+    id: direction
+    attributes:
+      label: 希望参与什么方向？
+      description: 例如工具开发、Skills、工作流、实践笔记、需求整理或测试。
+    validations:
+      required: true
+  - type: textarea
+    id: contribution
+    attributes:
+      label: 你愿意提供哪些帮助？
+      description: 不要求会编程，可介绍相关经验或公开作品链接。
+    validations:
+      required: true
+  - type: textarea
+    id: collaboration
+    attributes:
+      label: 希望怎样参与？
+      description: 例如先参与一个任务，或长期维护某个方向。
