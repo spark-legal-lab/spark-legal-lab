@@ -1,5 +1,9 @@
 # 星火法律实验室 · Spark Legal Lab
 
+<p align="center">
+  <img src="assets/xinghuo-cover.png" width="480" alt="星火计划：星轨映照山河">
+</p>
+
 从法律实践出发，共创工具、分享方法，让星火连接成光。
 
 这里是「星火计划」学员自发发起的共创空间，欢迎同学一起探索法律 AI，分享工具、Skills、工作流与实践经验。
