@@ -42,6 +42,16 @@
 
 两个工具均请先用虚构材料试用；反馈时不要上传真实案件、身份映射、处理结果或含个人信息的截图。
 
+### rainbow1111-lalala｜法律 AI 与效率工具
+
+公开分享法律文档处理、隐私合规、知识库框架及日常办公相关工具与 Skills。
+
+- **[GitHub 主页与完整项目列表](https://github.com/rainbow1111-lalala/)**：查看项目介绍、使用说明与更新。
+- **文档与办公**：[法律文档脱敏工具](https://github.com/rainbow1111-lalala/legal-anonymizer)、[电子发票收取与报销整理](https://github.com/rainbow1111-lalala/invoice-fetch)。
+- **合规与知识管理**：[个人信息保护影响评估（PIA）skill](https://github.com/rainbow1111-lalala/pia-skill)、[个人知识库框架](https://github.com/rainbow1111-lalala/knowledge-flywheel-framework)。
+
+各项目的安装方式、适用范围和使用许可，请以对应仓库说明为准。
+
 ## 申请加入
 
 欢迎愿意分享、动手实践的同学参与，不要求会编程。
