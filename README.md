@@ -28,17 +28,17 @@
 
 将 DOCX、TXT 中的姓名、公司和联系方式替换为代称，多份合同可以沿用同一套编号。适合先在本机核对、补录遗漏信息，再导出脱敏副本。
 
-- **[项目主页与下载](https://github.com/passrave-commits/yunmo-redactor)**：Windows 源码试用版，需先安装 Python 3.12。
-- **[图文使用指南](https://github.com/passrave-commits/yunmo-redactor/blob/main/docs/USAGE.md)**：从下载、安装到逐步操作，面向首次使用的律师。
-- **[隐私与处理范围](https://github.com/passrave-commits/yunmo-redactor/blob/main/docs/PRIVACY.md)**、**[许可状态](https://github.com/passrave-commits/yunmo-redactor/blob/main/LICENSE-STATUS.md)**：自动识别可能遗漏，图片、附件和文档属性等仍须另行检查；通用开源许可尚未确定。
+- **[项目主页与下载](https://github.com/JurisXu/yunmo-redactor)**：Windows 源码试用版，需先安装 Python 3.12。
+- **[图文使用指南](https://github.com/JurisXu/yunmo-redactor/blob/main/docs/USAGE.md)**：从下载、安装到逐步操作，面向首次使用的律师。
+- **[隐私与处理范围](https://github.com/JurisXu/yunmo-redactor/blob/main/docs/PRIVACY.md)**、**[许可状态](https://github.com/JurisXu/yunmo-redactor/blob/main/LICENSE-STATUS.md)**：自动识别可能遗漏，图片、附件和文档属性等仍须另行检查；通用开源许可尚未确定。
 
 ### 云墨文字识别助手
 
 把扫描 PDF、照片和多页 TIFF 转成可编辑文字，支持对照原页校对，并导出 Word、Markdown 或可搜索 PDF。
 
-- **[项目主页与下载](https://github.com/passrave-commits/yunmo-ocr)**：Windows 本机识别源码试用版，需先安装 Python 3.12。
-- **[图文使用指南](https://github.com/passrave-commits/yunmo-ocr/blob/main/docs/USAGE.md)**：说明如何添加文件、识别、校对与导出。
-- **[隐私说明](https://github.com/passrave-commits/yunmo-ocr/blob/main/docs/PRIVACY.md)**、**[许可状态](https://github.com/passrave-commits/yunmo-ocr/blob/main/LICENSE-STATUS.md)**：金额、姓名、日期等关键内容须核对原件；通用开源许可尚未确定。
+- **[项目主页与下载](https://github.com/JurisXu/yunmo-ocr)**：Windows 本机识别源码试用版，需先安装 Python 3.12。
+- **[图文使用指南](https://github.com/JurisXu/yunmo-ocr/blob/main/docs/USAGE.md)**：说明如何添加文件、识别、校对与导出。
+- **[隐私说明](https://github.com/JurisXu/yunmo-ocr/blob/main/docs/PRIVACY.md)**、**[许可状态](https://github.com/JurisXu/yunmo-ocr/blob/main/LICENSE-STATUS.md)**：金额、姓名、日期等关键内容须核对原件；通用开源许可尚未确定。
 
 两个工具均请先用虚构材料试用；反馈时不要上传真实案件、身份映射、处理结果或含个人信息的截图。
 
